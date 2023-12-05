@@ -19,7 +19,7 @@ days = 1
 times = "17:00 PM - 20:00 PM"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://maps.app.goo.gl/DE3mJK6P1m35SaLZ7&sa=D&source=editors&ust=1701783124643033&usg=AOvVaw3uugS8TyLk7ut0BGpPmHFv)"
+venueName = "[Toscano](https://www.google.com/url?q=https://maps.app.goo.gl/DE3mJK6P1m35SaLZ7&sa=D&source=editors&ust=1701783124643033&usg=AOvVaw3uugS8TyLk7ut0BGpPmHFv)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

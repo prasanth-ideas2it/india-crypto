@@ -1,6 +1,6 @@
 
 # the name of your track or event
-name = "⚡ IBW Official After-Party 🕺"
+name = "IBW Official After-Party"
 
 # the name of the group organizing the event
 org =  "Glip x Berachain x Hashed Emergent x Hunch"
@@ -19,7 +19,7 @@ days = 1
 times = "8:00 PM - 12:00 AM"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124647798&usg=AOvVaw0XcLoMWKTpxBnYt02TY7pR)"
+venueName = "[Sheraton Grand Bengaluru Whitefield](https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124647798&usg=AOvVaw0XcLoMWKTpxBnYt02TY7pR)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

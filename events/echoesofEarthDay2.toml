@@ -20,7 +20,7 @@ days = 1
 times = "TBA - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://goo.gl/maps/FimPShPzfMgQLeFu6&sa=D&source=editors&ust=1701783124588550&usg=AOvVaw3VEsvNEd8zn2t745kDrxFK)"
+venueName = "[Echoes](https://www.google.com/url?q=https://goo.gl/maps/FimPShPzfMgQLeFu6&sa=D&source=editors&ust=1701783124588550&usg=AOvVaw3VEsvNEd8zn2t745kDrxFK)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
