@@ -3,7 +3,7 @@ import ScrollContainer from 'react-indiana-drag-scroll'
 import { BlankCard } from './event.js'
 
 import { ScheduleTable } from "./scheduletable.js"
-import { AddEventModal } from "./event.js"
+import { AddEventModal, AddEventButton } from "./event.js"
 import Markdown from './markdown.js'
 import annotateEvents from '../lib/annotateEvents.js'
 
@@ -18,17 +18,18 @@ export default function ScheduleSection({ events, config }) {
 
   return (
     <article>
-      <div className='w-full pt-10 lg:pt-56 pb-28 min-h-[10vh]' id='schedule'>
-        <div className="container mx-auto max-w-6xl pb-10 px-6 lg:px-0">
+      <div className='w-full pt-10 pb-28 min-h-[10vh]' id='schedule'>
+        <div className="mx-auto flex max-w-6xl pb-10 px-6 lg:px-0  items-center gap-5">
           <header className="flex flex-row">
             <h1 className="text-4xl font-bold">
               Schedule
             </h1>
-            <a className="text-xs pl-4 self-end text-blue-600" href="/events.json">View as JSON</a>
+            {/* <a className="text-xs pl-4 self-end text-blue-600" href="/events.json">View as JSON</a> */}
           </header>
-          <div className='mt-3'>
+          {/* <div className='mt-3'>
             {config.schedule?.description && <Markdown>{config.schedule.description}</Markdown>}
-          </div>
+          </div> */}
+          <AddEventButton />
         </div>
         <div className="bg-gray-100 py-10 pb-0 text-center">
           <img className="inline-block mr-3" src="/click-drag.svg" />

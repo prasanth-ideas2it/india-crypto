@@ -1,9 +1,11 @@
 import { Navbar, DarkThemeToggle } from 'flowbite-react'
 import Link from 'next/link'
 import Button from './button'
+import { useEffect } from 'react'
 
 export default function Header({config}) {
   //<DarkThemeToggle />
+  
   return (
     <div className="header justify-self-start sticky top-0 z-50 w-full backdrop-blur
       flex-none lg:z-50 lg:border-b
@@ -31,10 +33,13 @@ export default function Header({config}) {
             <Navbar.Toggle />
           </div>
           <Navbar.Collapse>
+          <Navbar.Link href="/#home">
+              Home
+            </Navbar.Link>
             <Navbar.Link href="/#schedule">
               Schedule
             </Navbar.Link>
-            <Navbar.Link href="/#attendee-resources">
+            {/* <Navbar.Link href="/#attendee-resources">
               Resources
             </Navbar.Link>
             <Navbar.Link href="/#map">
@@ -42,7 +47,7 @@ export default function Header({config}) {
             </Navbar.Link>
             <Navbar.Link href="/#frequently-asked-questions">
               FAQ
-            </Navbar.Link>
+            </Navbar.Link> */}
           </Navbar.Collapse>
         </Navbar>
       </div>
