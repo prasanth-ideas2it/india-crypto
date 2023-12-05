@@ -7,7 +7,7 @@ name="India Crypto Week"
 location="India, Bangalore"
 
 # the dates the devent runs
-dateStart = "2023-12-1"
+dateStart = "2023-12-2"
 dateEnd = "2023-12-10"
 
 # a pithy tag line you want to show in the "hero/splash" part of the landing page
@@ -52,7 +52,7 @@ org="Protocol Labs"
 orglink="https://protocol.ai"
 
 # url for this event repo
-repo="https://github.com/protocol/labweek-2022"
+repo="https://github.com/memser-spaceport/indiacryptoweek"
 
 # list the participating teams.
 # the format here is:

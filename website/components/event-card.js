@@ -26,7 +26,7 @@ export function HeaderCards(props) {
           'p-3 sm:px-3 sm:py-2 h-full hover:bg-white hover:bg-gradient-to-r hover:from-blue-500/10 hover:via-cyan-500/10 hover:to-green-500/10'
         )}>
           <div className='pb-3 flex justify-between items-center'>
-          <img width="78" height="58" src="/filbangalore.jpg" />
+          <img width="78" height="58" src={props.img} />
           <p className="text-xs text-right bg-slate-200 py-1 px-2 rounded-full">Learn More&nbsp;<span className=''>&#10132;</span></p>
           </div>
           <div className="flex flex-col gap-1 h-full pb-2">

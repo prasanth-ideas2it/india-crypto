@@ -33,9 +33,9 @@ export function Layout({ children, config }) {
           }}
         />
       </Head>
-      {/* <Header config={config} /> */}
+      <Header config={config} />
 
-      <div className="flex-none items-center min-h-full w-full">
+      <div className="flex-none items-center min-h-full w-full" id="home">
         <main className="content">
             {children}
         </main>

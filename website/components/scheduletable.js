@@ -1,19 +1,19 @@
 import dayjs from 'dayjs'
-
+import { useEffect } from 'react'
 import { EventCard } from './event.js'
 import genDates from '../lib/genDates.js'
 import dayOffset from '../lib/dayOffset.js'
 import Link from 'next/link.js'
 
-function EventCardWrapper({e, i}) {
+function EventCardWrapper({ e, i }) {
   if (!e.isWithinRange) {
     return null
   }
   return (
     <div className={`col-start-${(e.startDay + 1)} col-end-${(e.startDay + e.days + 1)} shrink-0 h-full auto-rows-fr`}>
-        <Link href={`/${e.hash}`} scroll={false}>
-          <EventCard event={e} key={i} />
-        </Link>
+      <Link href={`/${e.hash}`} scroll={false}>
+        <EventCard event={e} key={i} />
+      </Link>
     </div>
   )
 }
@@ -24,7 +24,7 @@ export function ScheduleTable({ events, config }) {
 
   const numDays = Number(dayOffset(startDate, endDate) + 1)
   const days = genDates(startDate, numDays)
-  
+
   const publicEvents = events.filter(item => item.difficulty !== "Private")
   const privateEvents = events.filter(item => item.difficulty === "Private")
   const sortedEvents = [...publicEvents, ...privateEvents]
@@ -33,6 +33,22 @@ export function ScheduleTable({ events, config }) {
     const bPriority = b.priority || 10
     return aPriority - bPriority
   })
+
+  // useEffect(() => {
+  //   if (days.length > 0) {
+  //     var element = document.getElementById("current-view");
+  //     element.scrollIntoView({ behavior: "smooth" });
+  //   }
+  // }, []);
+
+  useEffect(() => {
+    const element = document.getElementById("current-view");
+    console.log("element>>>>>>>>>>>>>>>>>>>>>>>>>>>>", element)
+    if (element) {
+      element.scrollLeft = 100;
+    }
+  }, [days]); 
+
 
   return (
     <>
@@ -43,7 +59,7 @@ export function ScheduleTable({ events, config }) {
             <p className="flex-1 mx-2 text-right">{d.format('MMM DD')}</p>
           </div>
         ))}
-        {prioritizedEvents.map((e, i) => (<EventCardWrapper e={e} i={i}  key={i} />))}
+        {prioritizedEvents.map((e, i) => (<EventCardWrapper e={e} i={i} key={i} />))}
       </div>
 
       <div className="invisible"> {/* trick tailwindcss to generate the required columns */}
@@ -51,7 +67,7 @@ export function ScheduleTable({ events, config }) {
         <div className="grid grid-cols-2  w-[500px]"> <div className="col-span-2  col-start-2  col-end-2"></div></div>
         <div className="grid grid-cols-3  w-[750px]"> <div className="col-span-3  col-start-3  col-end-3"></div></div>
         <div className="grid grid-cols-4  w-[1000px]"><div className="col-span-4  col-start-4  col-end-4"></div></div>
-        <div className="grid grid-cols-5  w-[1250px]"><div className="col-span-5  col-start-5  col-end-5"></div></div>
+        <div className="grid grid-cols-5  w-[1250px]"><div className="col-span-5  col-start-5  col-end-5" id="current-view"></div></div>
         <div className="grid grid-cols-6  w-[1500px]"><div className="col-span-6  col-start-6  col-end-6"></div></div>
         <div className="grid grid-cols-7  w-[1750px]"><div className="col-span-7  col-start-7  col-end-7"></div></div>
         <div className="grid grid-cols-8  w-[2000px]"><div className="col-span-8  col-start-8  col-end-8"></div></div>
