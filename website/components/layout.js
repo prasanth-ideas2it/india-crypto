@@ -33,7 +33,7 @@ export function Layout({ children, config }) {
           }}
         />
       </Head>
-      <Header config={config} />
+      {/* <Header config={config} /> */}
 
       <div className="flex-none items-center min-h-full w-full">
         <main className="content">
@@ -41,7 +41,7 @@ export function Layout({ children, config }) {
         </main>
       </div>
 
-      <Footer config={config} />
+      {/* <Footer config={config} /> */}
     </div>
   )
 }
