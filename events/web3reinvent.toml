@@ -19,7 +19,7 @@ days = 1
 times = "TBA - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://www.google.com/maps/place/Bengaluru%2BMarriott%2BHotel%2BWhitefield/@12.9789845,77.728393,17z/data%3D!3m1!4b1!4m9!3m8!1s0x3bae11f15591198b:0x6f7d6b166b01e4e3!5m2!4m1!1i2!8m2!3d12.9789845!4d77.728393!16s%252Fg%252F1hg4r271y?entry%3Dttu&sa=D&source=editors&ust=1701783124714472&usg=AOvVaw1dE6bjhnh0Nu7TndE5AEnH)"
+venueName = "[Bengaluru Marriott Hotel Whitefield](https://www.google.com/url?q=https://www.google.com/maps/place/Bengaluru%2BMarriott%2BHotel%2BWhitefield/@12.9789845,77.728393,17z/data%3D!3m1!4b1!4m9!3m8!1s0x3bae11f15591198b:0x6f7d6b166b01e4e3!5m2!4m1!1i2!8m2!3d12.9789845!4d77.728393!16s%252Fg%252F1hg4r271y?entry%3Dttu&sa=D&source=editors&ust=1701783124714472&usg=AOvVaw1dE6bjhnh0Nu7TndE5AEnH)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

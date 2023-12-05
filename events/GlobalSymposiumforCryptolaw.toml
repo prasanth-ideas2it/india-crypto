@@ -1,6 +1,6 @@
 
 # the name of your track or event
-name = "👩‍💻 Global Symposium for Cryptolaw ⚖"
+name = "Global Symposium for Cryptolaw"
 
 # the name of the group organizing the event
 org =  "Hashed Open Dialogue for Law (HODL) x Bharat Web3 Association"
@@ -19,7 +19,7 @@ days = 1
 times = "18:30 PM - 22:30 PM"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://maps.app.goo.gl/bZ1rJ3LVGx8hVnBa7&sa=D&source=editors&ust=1701783124672588&usg=AOvVaw1rKkOAK_X0BtiB3ktd6OYz)"
+venueName = "[Hashed Haus](https://www.google.com/url?q=https://maps.app.goo.gl/bZ1rJ3LVGx8hVnBa7&sa=D&source=editors&ust=1701783124672588&usg=AOvVaw1rKkOAK_X0BtiB3ktd6OYz)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

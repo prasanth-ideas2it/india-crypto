@@ -1,6 +1,6 @@
 
 # the name of your track or event
-name = "🌟 IBW'23 Conference - Day 2 🌟"
+name = "IBW'23 Conference - Day 2"
 
 # the name of the group organizing the event
 org =  "Hashed Emergent"
@@ -19,7 +19,7 @@ days = 1
 times = "9:00 AM - 18:00 PM"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124646983&usg=AOvVaw06WRlppAZw2BIMtCZfRKfC)"
+venueName = "[Sheraton Grand Bengaluru Whitefield](https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124646983&usg=AOvVaw06WRlppAZw2BIMtCZfRKfC)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
