@@ -13,7 +13,7 @@ import { HeaderCards } from "../components/event-card.js"
 const headerCards = [
   { img:"/filbangalore.jpg", url: "https://fil-bangalore.io/", title: "FILBangalore", date: "Dec 3-Dec 4" },
   { img:"/ethIndia.png", url: "https://ethindia.co/", title: "ETHIndia", date: "Dec 8-Dec 10" },
-  { img:"/indiaPragma.jpeg", url: "https://ethglobal.com/events/pragma-india", title: "Pragma India", date: "Dec 7" },
+  { img:"/indiaPragma.png", url: "https://ethglobal.com/events/pragma-india", title: "Pragma India", date: "Dec 7" },
 ]
 
 export default function Index({ events, config }) {
@@ -22,7 +22,7 @@ export default function Index({ events, config }) {
       {/* <Hero config={config} /> */}
 
       <div className="w-full flex flex-row flex-wrap mx-auto max-w-6xl py-10 px-6 lg:px-0">
-        <p className="text-center text-6xl">India Crypto Week</p>
+        <p className="text-center text-6xl">India Crypto Week 2023</p>
         <p className="text-md pt-4">
           The India Crypto Week 2023 is a series of events commencing from
           ‍<span className="font-bold">3rd December to 10th December</span>—all aimed at fostering young South Asian talent in this space. With hackathons, workshops, conferences and community events lining your calendar, this page will be your go-to update point. So do plan your travel accordingly!
