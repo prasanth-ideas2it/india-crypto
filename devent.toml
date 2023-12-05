@@ -1,10 +1,10 @@
 [devent]
 
 # the name of the devent
-name="LabWeek22"
+name="India Crypto Week"
 
 # where the event is happening
-location="Lisbon, Portugal"
+location="India, Bangalore"
 
 # the dates the devent runs
 dateStart = "2022-10-24"
@@ -36,7 +36,7 @@ link="https://labweek22.on.fleek.co"
 recapLink="https://www.youtube.com/playlist?list=PLhuBigpl7lquMYyWetD-pjok5e-5Tv-MJ"
 
 # a link to a logo image for the event
-logo="logo-hex.svg"
+logo="IndiaCrypto.svg"
 
 # a link to a large res image for the hero/splash background.
 # you likely want to use the devent location/city or something meaningful to the community
