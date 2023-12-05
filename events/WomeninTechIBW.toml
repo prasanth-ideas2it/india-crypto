@@ -1,6 +1,6 @@
 
 # the name of your track or event
-name = "🦸‍♀️ Women in Tech IBW 👩‍💻"
+name = "Women in Tech IBW"
 
 # the name of the group organizing the event
 org =  "Hashed Open Dialogue for Law (HODL)"
@@ -19,7 +19,7 @@ days = 1
 times = "17:30 - 20:30"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://maps.app.goo.gl/UsQUbvZpqHi6AmCb9&sa=D&source=editors&ust=1701783124606135&usg=AOvVaw1oCeFEtzqFFjzotMkSib2s)"
+venueName = "[Fox in the Field](https://www.google.com/url?q=https://maps.app.goo.gl/UsQUbvZpqHi6AmCb9&sa=D&source=editors&ust=1701783124606135&usg=AOvVaw1oCeFEtzqFFjzotMkSib2s)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
