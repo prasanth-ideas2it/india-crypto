@@ -7,8 +7,8 @@ name="India Crypto Week"
 location="India, Bangalore"
 
 # the dates the devent runs
-dateStart = "2022-10-24"
-dateEnd = "2022-11-4"
+dateStart = "2023-12-1"
+dateEnd = "2023-12-10"
 
 # a pithy tag line you want to show in the "hero/splash" part of the landing page
 tagline="""
