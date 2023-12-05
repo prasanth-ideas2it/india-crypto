@@ -1,13 +1,13 @@
 
 # the name of your track or event
-name = "Pragma India"
+name = "⚡ IBW Official After-Party 🕺"
 
 # the name of the group organizing the event
-org =  "ETH Global"
+org =  "Glip x Berachain x Hashed Emergent x Hunch"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://ethglobal.com/events/pragma-india&sa=D&source=editors&ust=1701783124663184&usg=AOvVaw0T__2UJ4rVBdJE0Woedint"
+website = "https://www.google.com/url?q=https://lu.ma/IBW-Official-After-Party&sa=D&source=editors&ust=1701783124647951&usg=AOvVaw2ph7uwXKX5-nQ9ZFn25nl-"
 
 # the start date of the event
 date = "2023-12-07"
@@ -16,10 +16,10 @@ date = "2023-12-07"
 days = 1
 
 # the event times (shows up in the event card)
-times = "10:00 AM - 18:00 PM"
+times = "8:00 PM - 12:00 AM"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://maps.app.goo.gl/9ET4X8pPM2gbBoPUA&sa=D&source=editors&ust=1701783124662863&usg=AOvVaw1aIQGUw6VtMXJ8x6tdjKxL)"
+venueName = "(https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124647798&usg=AOvVaw0XcLoMWKTpxBnYt02TY7pR)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -34,7 +34,7 @@ difficulty = "Priced"
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["Conference/Summit"]
+tags = ["Party"]
 
 # a color, to group key events visually. use sparingly
 color="orange"

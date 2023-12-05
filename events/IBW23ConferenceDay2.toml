@@ -1,13 +1,13 @@
 
 # the name of your track or event
-name = "Pragma India"
+name = "🌟 IBW'23 Conference - Day 2 🌟"
 
 # the name of the group organizing the event
-org =  "ETH Global"
+org =  "Hashed Emergent"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://ethglobal.com/events/pragma-india&sa=D&source=editors&ust=1701783124663184&usg=AOvVaw0T__2UJ4rVBdJE0Woedint"
+website = "https://www.google.com/url?q=https://indiablockchainweek.com/&sa=D&source=editors&ust=1701783124647139&usg=AOvVaw2-p1A2qTrgCzJgLX2lqHMm"
 
 # the start date of the event
 date = "2023-12-07"
@@ -16,10 +16,10 @@ date = "2023-12-07"
 days = 1
 
 # the event times (shows up in the event card)
-times = "10:00 AM - 18:00 PM"
+times = "9:00 AM - 18:00 PM"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://maps.app.goo.gl/9ET4X8pPM2gbBoPUA&sa=D&source=editors&ust=1701783124662863&usg=AOvVaw1aIQGUw6VtMXJ8x6tdjKxL)"
+venueName = "(https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124646983&usg=AOvVaw06WRlppAZw2BIMtCZfRKfC)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

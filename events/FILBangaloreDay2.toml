@@ -1,25 +1,26 @@
 
 # the name of your track or event
-name = "Pragma India"
+name = "FIL Bangalore - Day 2
+Filecoin and Huddle01"
 
 # the name of the group organizing the event
-org =  "ETH Global"
+org =  "Filecoin and Huddle01"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://ethglobal.com/events/pragma-india&sa=D&source=editors&ust=1701783124663184&usg=AOvVaw0T__2UJ4rVBdJE0Woedint"
+website = "https://www.google.com/url?q=https://lu.ma/filblr23&sa=D&source=editors&ust=1701783124590185&usg=AOvVaw1Nkku992aoXAp1DM4qBSzn"
 
 # the start date of the event
-date = "2023-12-07"
+date = "2023-12-04"
 
 # how many days the event lasts (1 - N)
 days = 1
 
 # the event times (shows up in the event card)
-times = "10:00 AM - 18:00 PM"
+times = "TBA - 18:30"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(https://www.google.com/url?q=https://maps.app.goo.gl/9ET4X8pPM2gbBoPUA&sa=D&source=editors&ust=1701783124662863&usg=AOvVaw1aIQGUw6VtMXJ8x6tdjKxL)"
+venueName = "(https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124590029&usg=AOvVaw3t1wVNxaY_Ln4LJgvO3l7c)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -30,7 +31,7 @@ venueAddress = "TBA"
 
 # the "difficulty" of the event -- one of:
 # ["Beginner", "Intermediate", "Advanced", "All Welcome"]
-difficulty = "Priced"
+difficulty = "Free"
 
 # tags for the event, will show up as labels.
 # pick 1-4
