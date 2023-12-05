@@ -109,7 +109,7 @@ export function AddEventButton() {
     <div onClick={() => window && window.showAddEventModal()}>
       <div className="flex text-blue-500 items-center pt-1 cursor-pointer">
         <div className="text-xl">
-          + &nbsp;
+          + 
         </div>
         <div className="text-xl font-bold">
           Add your event
