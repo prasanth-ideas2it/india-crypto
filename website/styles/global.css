@@ -1,0 +1,26 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.markdown a {
+  color: rgb(29, 78, 216);
+  cursor: pointer;
+}
+
+.markdown ul {
+  list-style: disc;
+  margin-left: 20px;
+  margin-bottom: 6px;
+}
+
+.markdown ul li {
+  margin-top: 6px;
+}
+
+.markdown p:not(:first-child) {
+  margin-top: 20px;
+}
+
+.mapboxgl-popup-close-button {
+  display: none;
+}

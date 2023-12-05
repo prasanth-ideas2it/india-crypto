@@ -1,0 +1,62 @@
+# the name of your track or event
+name = "Launchpad Social"
+
+# the name of the group organizing the event
+org = "Launchpad Team"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with devent organizers)
+dri = "Hana Ahriz"
+
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+website = "https://www.eventbrite.com/e/protocol-labs-launchpad-social-hour-4-tickets-428430877287"
+
+# the start date of the event
+date = "2022-10-26"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "19:00 - 22:00"
+
+# the event venue name (will show up on the event card - TODO)
+venueName = "[Go a Lisboa](https://goo.gl/maps/ftZvfeagzgNCXxr87)"
+
+# the event venue address (will show up on a map -- TODO)
+venueAddress = "Rooftop Bar, Calçada Livramento 17, 1350-188 Lisboa, Portugal"
+
+# the max number of attendees of the event
+attendees = ""
+
+
+# these is unsued:
+# tickets = ""
+
+# the "difficulty" of the event -- one of:
+# ["Beginner", "Intermediate", "Advanced", "All Welcome"]
+difficulty = "All Welcome"
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["Dinner"]
+
+# a color, to group key events visually. use sparingly
+color="yellow"
+
+# A small logomark for the corner of the event
+logomark = "/logomarks/LP-icon-nobkgrnd_vncehp.png"
+
+# a description of the event.
+# will show up when the user clicks the event card.
+description = """Join [ the PL Launchpad ](https://www.eventbrite.com/e/protocol-labs-launchpad-social-hour-4-tickets-428430877287) Social Hour in Lisbon ! We are excited to meet all of you, share our latest updates, more about the future cohorts happening in the next months, meet the team and our current and Alumni residents.
+We will be providing drinks and food for everybody in a unique location. Come enjoy a cocktail dinner and drinks and great conversations!
+Protocol Labs Launchpad is a hiring & onboarding program designed for accelerating technical growth in the Web3 space.
+
+Launchpad aims to hire exceptional talent from diverse engineering and tech operations backgrounds into a six-week, full-time residency designed to train, develop, and team-match talent with Web3 opportunities across the Protocol Labs Network.
+"""
+
+# the priority in the schedule table, leave commented if you don't need to control this
+# 1 will appear at the top, higher numbers appear closer to bottom
+priority = 5

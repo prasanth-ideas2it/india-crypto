@@ -1,0 +1,55 @@
+# the name of your track or event
+name = "ETH Lisbon"
+
+# the name of the group organizing the event
+org = "Ethereum Community"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with devent organizers)
+dri = "Diogo Almeida"
+
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+website = "https://www.ethlisbon.org/"
+
+# the start date of the event
+date = "2022-10-28"
+
+# how many days the event lasts (1 - N)
+days = 3
+
+# the event times (shows up in the event card)
+times = "14:00 (registration) on Oct 28th"
+
+# the event venue name (will show up on the event card - TODO)
+venueName = "[Academia de Ciências de Lisboa](https://goo.gl/maps/uHJgeGseG2iSQxN76)"
+
+# the event venue address (will show up on a map -- TODO)
+venueAddress = "R. Academia das Ciências 19, 1200-168 Lisboa, Portugal"
+
+# the max number of attendees of the event
+attendees = ""
+
+
+# these is unsued:
+# tickets = ""
+
+# the "difficulty" of the event -- one of:
+# ["Beginner", "Intermediate", "Advanced", "All Welcome"]
+difficulty = "Apply for Invite - only"
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["Hackathon"]
+
+# a color, to group key events visually. use sparingly
+color="purple"
+
+# A small logomark for the corner of the event
+logomark = "/logomarks/Logo ETH Lisbon - Colors_White.png.png"
+
+# a description of the event.
+# will show up when the user clicks the event card.
+description = """
+ETHLisbon is an Ethereum-focused hackathon bringing together the best Web 3.0 builders to the crypto capital of Europe. Stop by the booth sponsored by Protocol Labs and join us for 3 days of non-stop building.
+"""
