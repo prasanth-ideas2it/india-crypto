@@ -1,31 +1,31 @@
 # the name of your track or event
-name = "Lurk Day"
+name = ":star2: IBW'23 Conference - Day 2 :star2:"
 
 # the name of the group organizing the event
-org = "PL Outercore, Lurk Lab, Yatima, and Supranational"
+org = "Hashed Emergent"
 
 # the github handle of the directly responsible individual for this event
 # (this person will coordinate with devent organizers)
-dri = "@jpeg07"
+# dri = "Juan Benet"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.eventbrite.com/e/lurk-day-lurk-applications-nova-and-hardware-acceleration-tickets-434021147937"
+website = "https://indiablockchainweek.com/"
 
 # the start date of the event
-date = "2022-10-28"
+date = "2023-12-07"
 
 # how many days the event lasts (1 - N)
 days = 1
 
 # the event times (shows up in the event card)
-times = "13:00 - 18:30"
+times = "09:00 - 18:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Brotéria Café](https://goo.gl/maps/BTYadfHPD9UimKet8)"
+venueName = "[Sheraton Grand Bengaluru Whitefield Hotel & Convention Center](https://maps.app.goo.gl/DqNk2cUvMaVbWWhq8)"
 
 # the event venue address (will show up on a map -- TODO)
-venueAddress = "R. de São Pedro de Alcântara 3, 1200-365 Lisboa, Portugal"
+venueAddress = ""
 
 # the max number of attendees of the event
 attendees = ""
@@ -36,31 +36,26 @@ attendees = ""
 
 # the "difficulty" of the event -- one of:
 # ["Beginner", "Intermediate", "Advanced", "All Welcome"]
-difficulty = "All Welcome"
+difficulty = "Priced"
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["Workshops","Happy Hour"]
+tags = ["Conference/Summit"]
 
 # a color, to group key events visually. use sparingly
-# color=""
+color="orange"
 
-# A small logomark for the corner of the event
-logomark = "/logomarks/Lurk.jpeg"
+# A small logomark for the corner of the event (logomark image can be placed in "/website/public/logomarks")
+# logomark = "/logomarks/Protocol Labs.jpeg"
 
 # a description of the event.
 # will show up when the user clicks the event card.
-description = """
-Lurk Day: Lurk, Applications, Nova, and Hardware Acceleration
-
-Lurk is a Turing-complete language for recursive zk-SNARKs. This event will feature talks from Chhi'mèd Künzang (Protocol Labs and Lurk Lab), John Burnham (Yatima, Inc.), Marcin Grzybowski (Mutual Knowledge Systems), Srinath Setty (Microsoft Research), and Kelly Olson (Supranational).
- 
-Watch the recordings [here](https://www.youtube.com/playlist?list=PL1PBsckLPD1emZYnsBWTuDfC8B_0qkS1R)!
-
-"""
+# description = """
+# Join us for a live virtual conversation between University of Oxford philosopher Nick Bostrom and Protocol Labs' Founder Juan Benet on all things AI. Learn where the current developments in artificial intelligence and digital minds are leading society and how we step up to the challenges that will arise in this field. Nick will sit down with Juan for a wide-ranging conversation before the audience has the opportunity to ask questions and interact with the speakers.
 
 # the priority in the schedule table, leave commented if you don't need to control this
 # 1 will appear at the top, higher numbers appear closer to bottom
-# priority =
+priority = 3
 
-isLive = true
+# if event has a livestream uncomment the following line
+isLive = false
