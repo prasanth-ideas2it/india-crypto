@@ -48,11 +48,6 @@ color="orange"
 # A small logomark for the corner of the event (logomark image can be placed in "/website/public/logomarks")
 # logomark = "/logomarks/Protocol Labs.jpeg"
 
-# a description of the event.
-# will show up when the user clicks the event card.
-# description = """
-# Join us for a live virtual conversation between University of Oxford philosopher Nick Bostrom and Protocol Labs' Founder Juan Benet on all things AI. Learn where the current developments in artificial intelligence and digital minds are leading society and how we step up to the challenges that will arise in this field. Nick will sit down with Juan for a wide-ranging conversation before the audience has the opportunity to ask questions and interact with the speakers.
-‍
 # the priority in the schedule table, leave commented if you don't need to control this
 # 1 will appear at the top, higher numbers appear closer to bottom
 priority = 3
