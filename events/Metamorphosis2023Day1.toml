@@ -1,0 +1,56 @@
+
+# the name of your track or event
+name = "Metamorphosis 2023 - Day 1"
+
+# the name of the group organizing the event
+org =  "Octaloop"
+
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+website = "https://www.google.com/url?q=https://metamorphosis.octaloop.com/bengaluru/&sa=D&source=editors&ust=1701783124716651&usg=AOvVaw0YxvDQyIPUUJx4bQi1g6rR"
+
+# the start date of the event
+date = "2023-12-09"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "TBA - TBA"
+
+# the event venue name (will show up on the event card - TODO)
+venueName = "(https://www.google.com/url?q=https://www.google.com/maps/dir//The%2BDen%2Bbangalore/data%3D!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bae11ef82478417:0xb16280be4e67f5ff?sa%3DX%26ved%3D2ahUKEwim5oOu_JKCAxXfa2wGHVGKD-cQ9Rd6BAgVEAA%26ved%3D2ahUKEwim5oOu_JKCAxXfa2wGHVGKD-cQ9Rd6BAggEAQ&sa=D&source=editors&ust=1701783124716431&usg=AOvVaw1lJFhLHm5j6d40W6Jdoc31)"
+
+# the event venue address (will show up on a map -- TODO)
+venueAddress = "TBA"
+
+
+# these is unsued:
+# tickets = ""
+
+# the "difficulty" of the event -- one of:
+# ["Beginner", "Intermediate", "Advanced", "All Welcome"]
+difficulty = "Priced"
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["Conference/Summit"]
+
+# a color, to group key events visually. use sparingly
+color="orange"
+
+# A small logomark for the corner of the event
+#logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"
+
+# a description of the event.
+# will show up when the user clicks the event card.
+#description = """The Compute over Data summit is a two day conference November 2-3 in Lisbon, Portugal. We will be gathering to talk about the future of computation across the spectrum. Areas covered consist of distributed datasets, both edge and data centers, and technologies such as WASM, reproducible builds, and consensus. Most of all, we want to convene to help bring about the next generation of platforms that make using data and compute together easier and more efficient.
+
+# Watch the day 1 [recording](https://www.youtube.com/watch?v=WqquUQDgHj0), day 2 track 1 [recording](https://www.youtube.com/watch?v=qsTLEbUEmFI), or day 2 track 2 [recording](https://www.youtube.com/watch?v=MWQ5WjbVXQo)!"""
+
+# the priority in the schedule table, leave commented if you don't need to control this
+# 1 will appear at the top, higher numbers appear closer to bottom
+priority = 3
+
+# if event has a livestream uncomment the following line
+ isLive = false
