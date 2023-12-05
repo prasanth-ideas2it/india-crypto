@@ -104,6 +104,21 @@ export function BlankCard() {
   )
 }
 
+export function AddEventButton() {
+  return (
+    <div onClick={() => window && window.showAddEventModal()}>
+      <div className="flex text-blue-500 items-center pt-1 cursor-pointer">
+        <div className="text-xl">
+          + 
+        </div>
+        <div className="text-xl font-bold">
+          Add your event
+        </div>
+      </div>
+    </div>
+  )
+}
+
 /**
  * @see https://github.com/ipfs-shipyard/ipfs-thing-2022/issues/125
  */

@@ -1,14 +1,14 @@
 [devent]
 
 # the name of the devent
-name="LabWeek22"
+name="India Crypto Week"
 
 # where the event is happening
-location="Lisbon, Portugal"
+location="India, Bangalore"
 
 # the dates the devent runs
-dateStart = "2022-10-24"
-dateEnd = "2022-11-4"
+dateStart = "2023-12-2"
+dateEnd = "2023-12-10"
 
 # a pithy tag line you want to show in the "hero/splash" part of the landing page
 tagline="""
@@ -17,9 +17,9 @@ A decentralized conference hosted by Protocol Labs
 
 description="""
 
-Muito obrigado - thank you to all those who joined us for LabWeek22. The magnitude of your commitment in partnering with us to drive breakthroughs in computing to push humanity forward is not lost on us. Let's meet again soon.
+The India Crypto Week 2023 is a series of events commencing from‍ 3rd December to 10th December—all aimed at fostering young South Asian talent in this space. 
 
-To those who couldn't join, we hope to see you at the next one.
+With hackathons, workshops, conferences and community events lining your calendar, this page will be your go-to update point. So do plan your travel accordingly!
 """
 
 # Site url
@@ -36,14 +36,14 @@ link="https://labweek22.on.fleek.co"
 recapLink="https://www.youtube.com/playlist?list=PLhuBigpl7lquMYyWetD-pjok5e-5Tv-MJ"
 
 # a link to a logo image for the event
-logo="logo-hex.svg"
+logo="IndiaCrypto.svg"
 
 # a link to a large res image for the hero/splash background.
 # you likely want to use the devent location/city or something meaningful to the community
 bgimg="chasm.jpg"
 
 # the social sharing image
-socialImage="labweek-social.png"
+socialImage="ethIndia.png"
 
 # the organizers of the devent (usually a group)
 org="Protocol Labs"
@@ -52,7 +52,7 @@ org="Protocol Labs"
 orglink="https://protocol.ai"
 
 # url for this event repo
-repo="https://github.com/protocol/labweek-2022"
+repo="https://github.com/memser-spaceport/indiacryptoweek"
 
 # list the participating teams.
 # the format here is:
