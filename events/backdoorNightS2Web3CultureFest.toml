@@ -7,7 +7,7 @@ org =  "BackerDAO, co-hosted by Tria (Prev. Threely)"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/osfeg24x&sa=D&source=editors&ust=1701783124668887&usg=AOvVaw24aloIy-0pkity4pWvqH0i"
+website = "https://lu.ma/osfeg24x"
 
 # the start date of the event
 date = "2023-12-07"

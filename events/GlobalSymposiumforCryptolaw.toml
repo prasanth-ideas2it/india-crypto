@@ -7,7 +7,7 @@ org =  "Hashed Open Dialogue for Law (HODL) x Bharat Web3 Association"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/IBWxHODLxBWA&sa=D&source=editors&ust=1701783124694145&usg=AOvVaw2TEvmp1xClXX5Ieo8z6MVr"
+website = "https://lu.ma/IBWxHODLxBWA"
 
 # the start date of the event
 date = "2023-12-08"
@@ -19,7 +19,7 @@ days = 1
 times = "18:30 - 22:30"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Hashed Haus](https://www.google.com/url?q=https://maps.app.goo.gl/bZ1rJ3LVGx8hVnBa7&sa=D&source=editors&ust=1701783124672588&usg=AOvVaw1rKkOAK_X0BtiB3ktd6OYz)"
+venueName = "[Hashed Haus](https://maps.app.goo.gl/bZ1rJ3LVGx8hVnBa7)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

@@ -7,7 +7,7 @@ org =  "Transak & Ledger"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/IBWNight&sa=D&source=editors&ust=1701783124644127&usg=AOvVaw2_VRP4t9_TpBdWXsyhUwUZ"
+website = "https://lu.ma/IBWNight"
 
 # the start date of the event
 date = "2023-12-06"

@@ -7,7 +7,7 @@ org =  "Filecoin and Huddle01"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/filblr23&sa=D&source=editors&ust=1701783124589238&usg=AOvVaw3QT0QG4xSVTRJ3j7ayeVFX"
+website = "https://lu.ma/filblr23"
 
 # the start date of the event
 date = "2023-12-03"
@@ -19,7 +19,7 @@ days = 2
 times = "12/03 9:00 - TBA, 12/04 TBA - 18:30"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Sheraton Grand Bengaluru Whitefield](https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124589079&usg=AOvVaw3P3Kqza-OXhqDHqmgr3ebd)"
+venueName = "[Sheraton Grand Bengaluru Whitefield](https://goo.gl/maps/iQyrjYhJSymRyzvR9)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

@@ -7,7 +7,7 @@ org =  "Zerion Ambassadors"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/ijyycn9c&sa=D&source=editors&ust=1701783124621820&usg=AOvVaw3KCNBkQDDNPinoXIN0flDQ"
+website = "https://lu.ma/ijyycn9c"
 
 # the start date of the event
 date = "2023-12-06"
@@ -19,7 +19,7 @@ days = 1
 times = "19:00 PM - 22:30 PM"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Zodiac Bar & Kitchen](https://www.google.com/url?q=https://maps.app.goo.gl/g2jjNtX1u5X13Tx17&sa=D&source=editors&ust=1701783124621668&usg=AOvVaw305TxtMW3FJB-7HtLBYGTt)"
+venueName = "[Zodiac Bar & Kitchen](https://maps.app.goo.gl/g2jjNtX1u5X13Tx17)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

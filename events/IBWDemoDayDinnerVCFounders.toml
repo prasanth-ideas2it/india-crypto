@@ -7,7 +7,7 @@ org =  "Graviton"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/ibwdinner&sa=D&source=editors&ust=1701783124665497&usg=AOvVaw3L-HsgAvvdS6MSdalZ9OrB"
+website = "https://lu.ma/ibwdinner"
 
 # the start date of the event
 date = "2023-12-07"
@@ -19,7 +19,7 @@ days = 1
 times = "19:30 - 23:59"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[BOHO Rooftop Restaurant & Bar](https://www.google.com/url?q=https://maps.app.goo.gl/5kFmBfHDybAATwJr5&sa=D&source=editors&ust=1701783124665313&usg=AOvVaw1XcmbTON1DHYCj4ukMkdnC)"
+venueName = "[BOHO Rooftop Restaurant & Bar](https://maps.app.goo.gl/5kFmBfHDybAATwJr5)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

@@ -8,7 +8,7 @@ org =  "The Product House"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://www.theproductfolks.com/bits-and-atoms&sa=D&source=editors&ust=1701783124588086&usg=AOvVaw0F72lsqUsafrjit0A4-GCf"
+website = "https://www.theproductfolks.com/bits-and-atoms"
 
 # the start date of the event
 date = "2023-12-02"

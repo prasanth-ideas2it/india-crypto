@@ -7,7 +7,7 @@ org =  "Stan"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/ibw_gaming_mixer&sa=D&source=editors&ust=1701783124641692&usg=AOvVaw1tgbW3JXlOmbgpp497vOAr"
+website = "https://lu.ma/ibw_gaming_mixer"
 
 # the start date of the event
 date = "2023-12-06"

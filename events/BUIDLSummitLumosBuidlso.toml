@@ -8,7 +8,7 @@ org =  "Lumos and Buidl.so"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/B4W3Summit&sa=D&source=editors&ust=1701783124590600&usg=AOvVaw2bKdeUsUO5CCHeo74JeGxg"
+website = "https://lu.ma/B4W3Summit"
 
 # the start date of the event
 date = "2023-12-04"

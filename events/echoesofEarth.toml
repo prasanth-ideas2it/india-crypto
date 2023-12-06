@@ -8,7 +8,7 @@ org =  "Swordfish Entertainment"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://echoesofearth.com/&sa=D&source=editors&ust=1701783124584492&usg=AOvVaw2I9DbxDNj7MZa0n3n-e7YS"
+website = "https://echoesofearth.com"
 
 # the start date of the event
 date = "2023-12-02"
@@ -20,7 +20,7 @@ days = 2
 times = "TBA - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Echoes](https://www.google.com/url?q=https://goo.gl/maps/FimPShPzfMgQLeFu6&sa=D&source=editors&ust=1701783124584263&usg=AOvVaw34VQvKCdHt36JDGtAtlv64)"
+venueName = "[Echoes](https://goo.gl/maps/FimPShPzfMgQLeFu6)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

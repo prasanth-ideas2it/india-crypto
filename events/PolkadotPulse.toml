@@ -7,7 +7,7 @@ org =  "Polkadot"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/Polka_Pulse1.0&sa=D&source=editors&ust=1701783124648881&usg=AOvVaw1XJkFlvwH5HEY-Nm4M0_DP"
+website = "https://lu.ma/Polka_Pulse1.0"
 
 # the start date of the event
 date = "2023-12-07"

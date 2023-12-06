@@ -7,7 +7,7 @@ org =  "StationX, co-hosted by Tria (Prev. Threely)"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/above-and-beyond&sa=D&source=editors&ust=1701783124670411&usg=AOvVaw1rYDeoJoQccnc2EjLe9IqI"
+website = "https://lu.ma/above-and-beyond"
 
 # the start date of the event
 date = "2023-12-07"

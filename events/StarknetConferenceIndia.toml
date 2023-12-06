@@ -7,7 +7,7 @@ org =  "Starknet Foundation"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/StarknetConf_India&sa=D&source=editors&ust=1701783124604083&usg=AOvVaw1HJ-6iT2hKx_j7q4IyM_m8"
+website = "https://lu.ma/StarknetConf_India"
 
 # the start date of the event
 date = "2023-12-05"

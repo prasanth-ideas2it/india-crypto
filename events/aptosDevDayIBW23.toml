@@ -7,7 +7,7 @@ org =  "Aptos Foundation"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/AptosDevDay&sa=D&source=editors&ust=1701783124645225&usg=AOvVaw1NvulTjLYbahCLDJnVr23_"
+website = "https://lu.ma/AptosDevDay"
 
 # the start date of the event
 date = "2023-12-06"
@@ -19,7 +19,7 @@ days = 1
 times = "14:00 - 18:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Sheraton Grand Bengaluru Whitefield](https://www.google.com/url?q=https://maps.app.goo.gl/1HXRPVvoVK1FuNfj6&sa=D&source=editors&ust=1701783124645051&usg=AOvVaw0XvHSzxuqymqLPDMZuFGVY)"
+venueName = "[Sheraton Grand Bengaluru Whitefield](https://maps.app.goo.gl/1HXRPVvoVK1FuNfj6)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

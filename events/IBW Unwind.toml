@@ -7,7 +7,7 @@ org =  "Onmeta, Ledger & Bitget"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/9cr5vehw&sa=D&source=editors&ust=1701783124694736&usg=AOvVaw2eq6hAmbVMwqlVayyISjXH"
+website = "https://lu.ma/9cr5vehw"
 
 # the start date of the event
 date = "2023-12-08"
