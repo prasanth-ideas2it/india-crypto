@@ -19,7 +19,7 @@ days = 1
 times = "18:30 - 21:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(TBA)"
+venueName = "TBA"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -53,4 +53,4 @@ color="blue"
 priority = 3
 
 # if event has a livestream uncomment the following line
- isLive = false
+isLive = false

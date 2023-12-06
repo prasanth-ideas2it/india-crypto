@@ -43,7 +43,7 @@ difficulty = "Application"
 tags = ["Conference/Summit"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="blue"
 
 # A small logomark for the corner of the event (logomark image can be placed in "/website/public/logomarks")
 # logomark = "/logomarks/Protocol Labs.jpeg"
