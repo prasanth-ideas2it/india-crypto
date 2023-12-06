@@ -7,7 +7,7 @@ org =  "Octaloop"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://metamorphosis.octaloop.com/bengaluru/&sa=D&source=editors&ust=1701783124716651&usg=AOvVaw0YxvDQyIPUUJx4bQi1g6rR"
+website = "https://metamorphosis.octaloop.com/bengaluru"
 
 # the start date of the event
 date = "2023-12-09"
@@ -19,7 +19,7 @@ days = 2
 times = "TBA - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[The Den Bengaluru](https://www.google.com/url?q=https://www.google.com/maps/dir//The%2BDen%2Bbangalore/data%3D!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bae11ef82478417:0xb16280be4e67f5ff?sa%3DX%26ved%3D2ahUKEwim5oOu_JKCAxXfa2wGHVGKD-cQ9Rd6BAgVEAA%26ved%3D2ahUKEwim5oOu_JKCAxXfa2wGHVGKD-cQ9Rd6BAggEAQ&sa=D&source=editors&ust=1701783124716431&usg=AOvVaw1lJFhLHm5j6d40W6Jdoc31)"
+venueName = "[The Den Bengaluru](https://www.google.com/maps/dir/13.1039232,80.134144/''/@13.0419863,77.6145134,8z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bae11ef82478417:0xb16280be4e67f5ff!2m2!1d77.7334492!2d12.9873412?entry=ttu)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

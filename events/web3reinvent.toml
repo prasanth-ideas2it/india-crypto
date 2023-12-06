@@ -7,7 +7,7 @@ org =  "Spheron"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/web3reinvent&sa=D&source=editors&ust=1701783124714706&usg=AOvVaw04NmCyzfFapehZ7KC7WE3Y"
+website = "https://lu.ma/web3reinvent"
 
 # the start date of the event
 date = "2023-12-09"
@@ -19,7 +19,7 @@ days = 1
 times = "TBA - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Bengaluru Marriott Hotel Whitefield](https://www.google.com/url?q=https://www.google.com/maps/place/Bengaluru%2BMarriott%2BHotel%2BWhitefield/@12.9789845,77.728393,17z/data%3D!3m1!4b1!4m9!3m8!1s0x3bae11f15591198b:0x6f7d6b166b01e4e3!5m2!4m1!1i2!8m2!3d12.9789845!4d77.728393!16s%252Fg%252F1hg4r271y?entry%3Dttu&sa=D&source=editors&ust=1701783124714472&usg=AOvVaw1dE6bjhnh0Nu7TndE5AEnH)"
+venueName = "[Bengaluru Marriott Hotel Whitefield](https://www.google.com/maps/place/Bengaluru+Marriott+Hotel+Whitefield/@12.9789897,77.7258181,17z/data=!3m2!4b1!5s0x3bae11f6ae3812f1:0x53d2baffc7c2d9dd!4m9!3m8!1s0x3bae11f15591198b:0x6f7d6b166b01e4e3!5m2!4m1!1i2!8m2!3d12.9789845!4d77.728393!16s%2Fg%2F1hg4r271y?entry=ttu)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

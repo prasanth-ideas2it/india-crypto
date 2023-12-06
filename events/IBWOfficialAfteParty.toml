@@ -7,7 +7,7 @@ org =  "Glip x Berachain x Hashed Emergent x Hunch"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/IBW-Official-After-Party&sa=D&source=editors&ust=1701783124647951&usg=AOvVaw2ph7uwXKX5-nQ9ZFn25nl-"
+website = "https://lu.ma/IBW-Official-After-Party"
 
 # the start date of the event
 date = "2023-12-07"
@@ -19,7 +19,7 @@ days = 1
 times = "20:00 - 23:59"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Sheraton Grand Bengaluru Whitefield](https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124647798&usg=AOvVaw0XcLoMWKTpxBnYt02TY7pR)"
+venueName = "[Sheraton Grand Bengaluru Whitefield](https://goo.gl/maps/iQyrjYhJSymRyzvR9)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

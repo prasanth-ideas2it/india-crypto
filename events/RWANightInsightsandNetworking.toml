@@ -7,7 +7,7 @@ org =  "Zoth"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/RWA&sa=D&source=editors&ust=1701783124668023&usg=AOvVaw3fXa2_pYlnEdWhp7uQ1ZUG"
+website = "https://lu.ma/RWA"
 
 # the start date of the event
 date = "2023-12-07"

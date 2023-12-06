@@ -7,7 +7,7 @@ org =  "Blockwee"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/cmoluncheon&sa=D&source=editors&ust=1701783124711405&usg=AOvVaw3uWJOSbjHkNj4s1TuWj-UX"
+website = "https://lu.ma/cmoluncheon"
 
 # the start date of the event
 date = "2023-12-08"

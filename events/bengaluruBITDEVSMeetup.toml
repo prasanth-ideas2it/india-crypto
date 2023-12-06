@@ -7,7 +7,7 @@ org =  "Bitshala"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/bitshala-BLR-bitdevs&sa=D&source=editors&ust=1701783124721622&usg=AOvVaw2O8pO0mG1qGOts0nTz2G3H"
+website = "https://lu.ma/bitshala-BLR-bitdevs"
 
 # the start date of the event
 date = "2023-12-09"
@@ -19,7 +19,7 @@ days = 1
 times = "18:00 - 22:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[91springboard, MG Road](https://www.google.com/url?q=https://maps.app.goo.gl/PNDsAXf2WwXSBNuF9&sa=D&source=editors&ust=1701783124721444&usg=AOvVaw2Pywdkuhd62P_RVan3q8jY)"
+venueName = "[91springboard, MG Road](https://maps.app.goo.gl/PNDsAXf2WwXSBNuF9)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

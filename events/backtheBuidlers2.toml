@@ -7,7 +7,7 @@ org =  "Blockchained India"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/604jwl0w&sa=D&source=editors&ust=1701783124715438&usg=AOvVaw1ubiApANctx1URrwUKPcfs"
+website = "https://lu.ma/604jwl0w"
 
 # the start date of the event
 date = "2023-12-09"

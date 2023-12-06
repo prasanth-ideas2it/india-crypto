@@ -7,7 +7,7 @@ org =  ""
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/disrupt-with-depin&sa=D&source=editors&ust=1701783124720455&usg=AOvVaw26pHvArgHxqTkxup3Re-Zc"
+website = "https://lu.ma/disrupt-with-depin"
 
 # the start date of the event
 date = "2023-12-09"

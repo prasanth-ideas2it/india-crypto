@@ -7,7 +7,7 @@ org =  "Bullieverse"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/udhd6dwt&sa=D&source=editors&ust=1701783124708001&usg=AOvVaw29ahE5xGT548ZqH9uU3wf7"
+website = "https://lu.ma/udhd6dwt"
 
 # the start date of the event
 date = "2023-12-08"

@@ -7,7 +7,7 @@ org =  "Cypher Blockchain and web3 carnival"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/msd9mhri&sa=D&source=editors&ust=1701783124644685&usg=AOvVaw2YvMk3CZeYrnxXd89BDo4I"
+website = "https://lu.ma/msd9mhri"
 
 # the start date of the event
 date = "2023-12-06"
@@ -19,7 +19,7 @@ days = 1
 times = "16:00 PM - 23:00 PM"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Palm Meadows Resort](https://www.google.com/url?q=https://maps.app.goo.gl/KUvzwp9kM9mZYaVS8&sa=D&source=editors&ust=1701783124644476&usg=AOvVaw2R3-TrX_JKT1DUPU9Vi1p8)"
+venueName = "[Palm Meadows Resort](https://maps.app.goo.gl/KUvzwp9kM9mZYaVS8)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"

@@ -7,7 +7,7 @@ org =  "Celo"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/agq43r0i&sa=D&source=editors&ust=1701783124670881&usg=AOvVaw3J2HcVIQkN4mFws4jS9FXC"
+website = "https://lu.ma/agq43r0i"
 
 # the start date of the event
 date = "2023-12-07"

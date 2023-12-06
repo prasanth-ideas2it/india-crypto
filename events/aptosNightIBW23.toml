@@ -7,7 +7,7 @@ org =  "Aptos Foundation, BharatBox and JumpTrade"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/AptosNight&sa=D&source=editors&ust=1701783124669885&usg=AOvVaw2u5kwyqrwNzHWUjBSyytAO"
+website = "https://lu.ma/AptosNight"
 
 # the start date of the event
 date = "2023-12-07"
