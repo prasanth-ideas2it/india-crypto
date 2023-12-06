@@ -16,7 +16,7 @@ date = "2023-12-10"
 days = 1
 
 # the event times (shows up in the event card)
-times = "8:00 AM - 16:30"
+times = "8:00 - 16:30"
 
 # the event venue name (will show up on the event card - TODO)
 venueName = "[KTPO Convention Centre, Whitefield](https://www.google.com/url?q=https://maps.app.goo.gl/e6piDMM6ZrqULw2R6&sa=D&source=editors&ust=1701783124722018&usg=AOvVaw2g3MpRoFYUcPAtgK2sSWai)"
@@ -37,7 +37,7 @@ difficulty = "Application"
 tags = ["Hackathon/Workshop"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="yellow"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"

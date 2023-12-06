@@ -43,7 +43,7 @@ difficulty = "Free"
 tags = ["Hackathon/Workshop"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="yellow"
 
 # A small logomark for the corner of the event (logomark image can be placed in "/website/public/logomarks")
 # logomark = "/logomarks/Protocol Labs.jpeg"

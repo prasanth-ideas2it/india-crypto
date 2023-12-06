@@ -17,10 +17,10 @@ date = "2023-12-01"
 days = 1
 
 # the event times (shows up in the event card)
-times = "15:00 PM - TBA"
+times = "15:00 - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(TBA)"
+venueName = "TBA"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -38,7 +38,7 @@ difficulty = "Application"
 tags = ["Hackathon/Workshop"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="yellow"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"

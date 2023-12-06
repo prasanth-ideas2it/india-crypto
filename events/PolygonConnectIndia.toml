@@ -37,7 +37,7 @@ difficulty = "Application"
 tags = ["Hackathon/Workshop"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="yellow"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"

@@ -16,7 +16,7 @@ date = "2023-12-06"
 days = 1
 
 # the event times (shows up in the event card)
-times = "9:00 AM - 18:00 PM"
+times = "9:00 - 18:00"
 
 # the event venue name (will show up on the event card - TODO)
 venueName = "[Sheraton Grand Bengaluru Whitefield](https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124620723&usg=AOvVaw0Bu1dkBTHRwrkdOI_qQ5rA)"
@@ -37,7 +37,7 @@ difficulty = "Priced"
 tags = ["Conference/Summit"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="blue"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"

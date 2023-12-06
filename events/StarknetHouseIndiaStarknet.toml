@@ -20,7 +20,7 @@ days = 1
 times = "TBA - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(TBA)"
+venueName = "TBA"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -38,7 +38,7 @@ difficulty = "Application"
 tags = ["Hackathon/Workshop"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="yellow"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"

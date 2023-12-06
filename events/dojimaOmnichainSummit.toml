@@ -1,7 +1,6 @@
 
 # the name of your track or event
-name = "Dojima Omnichain Summit
-"
+name = "Dojima Omnichain Summit"
 
 # the name of the group organizing the event
 org =  "Dojima Network"
@@ -20,7 +19,7 @@ days = 1
 times = "19:00 - 22:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(TBA)"
+venueName = "TBA"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -38,7 +37,7 @@ difficulty = "Free"
 tags = ["Conference/Summit"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="blue"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"
@@ -54,4 +53,4 @@ color="orange"
 priority = 3
 
 # if event has a livestream uncomment the following line
- isLive = false
+isLive = false

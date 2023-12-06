@@ -16,10 +16,10 @@ date = "2023-12-05"
 days = 1
 
 # the event times (shows up in the event card)
-times = "9:00 AM - 18:00 PM"
+times = "9:00 - 18:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(TBA)"
+venueName = "TBA"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -37,7 +37,7 @@ difficulty = "Free"
 tags = ["Conference/Summit"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="blue"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"
