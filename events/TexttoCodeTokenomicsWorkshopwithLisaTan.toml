@@ -16,7 +16,7 @@ date = "2023-12-05"
 days = 1
 
 # the event times (shows up in the event card)
-times = "11:00 AM - 13:30 PM"
+times = "11:00 - 13:30"
 
 # the event venue name (will show up on the event card - TODO)
 venueName = "[Hashed Haus](https://www.google.com/url?q=https://maps.app.goo.gl/QeBzdj7YjkvBCJJ4A&sa=D&source=editors&ust=1701783124616009&usg=AOvVaw1cyIcDVl3hpII3bzeBm7Df)"
@@ -37,7 +37,7 @@ difficulty = "Free"
 tags = ["Hackathon/Workshop"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="yellow"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"
