@@ -1,25 +1,25 @@
 
 # the name of your track or event
-name = "Metamorphosis 2023 - Day 2"
+name = "Web3preneur India Edition"
 
 # the name of the group organizing the event
-org =  "Octaloop"
+org =  "Blockon Capital and Oddiyana Ventures"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://metamorphosis.octaloop.com/bengaluru/&sa=D&source=editors&ust=1701783124722741&usg=AOvVaw1InHVBh7SkrnGErCQiESyX"
+website = "https://www.google.com/url?q=https://www.web3preneur.events/rsvp/?event%3Dindia&sa=D&source=editors&ust=1701783124717763&usg=AOvVaw1BGh31XvPyEypyhnBmYSKC"
 
 # the start date of the event
-date = "2023-12-10"
+date = "2023-12-09"
 
 # how many days the event lasts (1 - N)
-days = 1
+days = 2
 
 # the event times (shows up in the event card)
 times = "TBA - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[The Den Bengaluru](https://www.google.com/url?q=https://www.google.com/maps/dir//The%2BDen%2Bbangalore/data%3D!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bae11ef82478417:0xb16280be4e67f5ff?sa%3DX%26ved%3D2ahUKEwim5oOu_JKCAxXfa2wGHVGKD-cQ9Rd6BAgVEAA%26ved%3D2ahUKEwim5oOu_JKCAxXfa2wGHVGKD-cQ9Rd6BAggEAQ&sa=D&source=editors&ust=1701783124722522&usg=AOvVaw0aZPGqqqMp0lImSeEqyjSS)"
+venueName = "TBA"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -30,7 +30,7 @@ venueAddress = "TBA"
 
 # the "difficulty" of the event -- one of:
 # ["Beginner", "Intermediate", "Advanced", "All Welcome"]
-difficulty = "Priced"
+difficulty = "Application"
 
 # tags for the event, will show up as labels.
 # pick 1-4

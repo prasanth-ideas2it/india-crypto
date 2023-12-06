@@ -1,26 +1,25 @@
 
 # the name of your track or event
-name = "FIL Bangalore - Day 1
-Filecoin and Huddle01"
+name = "ETHIndia 2023"
 
 # the name of the group organizing the event
-org =  "Filecoin and Huddle01"
+org =  "Devfolio, ETHGlobal"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://lu.ma/filblr23&sa=D&source=editors&ust=1701783124589238&usg=AOvVaw3QT0QG4xSVTRJ3j7ayeVFX"
+website = "https://www.google.com/url?q=https://ethindia.co/&sa=D&source=editors&ust=1701783124671934&usg=AOvVaw2p_-QXk5VRyt_bGJzdcLDn"
 
 # the start date of the event
-date = "2023-12-03"
+date = "2023-12-08"
 
 # how many days the event lasts (1 - N)
-days = 1
+days = 3
 
 # the event times (shows up in the event card)
-times = "9:00 - TBA"
+times = "12/08 13:00 - 23:59, 12/09 TBA - TBA, 12/10 8:00 - 16:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Sheraton Grand Bengaluru Whitefield](https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124589079&usg=AOvVaw3P3Kqza-OXhqDHqmgr3ebd)"
+venueName = "[KTPO Convention Centre, Whitefield](https://www.google.com/url?q=https://maps.app.goo.gl/e6piDMM6ZrqULw2R6&sa=D&source=editors&ust=1701783124671786&usg=AOvVaw2fhjmuAJ-NuSmrCyqEjnVi)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -31,14 +30,14 @@ venueAddress = "TBA"
 
 # the "difficulty" of the event -- one of:
 # ["Beginner", "Intermediate", "Advanced", "All Welcome"]
-difficulty = "Free"
+difficulty = "Application"
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["Conference/Summit"]
+tags = ["Hackathon/Workshop"]
 
 # a color, to group key events visually. use sparingly
-color="blue"
+color="yellow"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"
@@ -54,4 +53,4 @@ color="blue"
 priority = 3
 
 # if event has a livestream uncomment the following line
-isLive = false
+ isLive = false
