@@ -1,25 +1,25 @@
 
 # the name of your track or event
-name = "ETHIndia 2023 - Day 3"
+name = "FIL Bangalore"
 
 # the name of the group organizing the event
-org =  "Devfolio, ETHGlobal"
+org =  "Filecoin and Huddle01"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://ethindia.co/&sa=D&source=editors&ust=1701783124722211&usg=AOvVaw1f0zG2uzhW1iXefCNQGSoW"
+website = "https://www.google.com/url?q=https://lu.ma/filblr23&sa=D&source=editors&ust=1701783124589238&usg=AOvVaw3QT0QG4xSVTRJ3j7ayeVFX"
 
 # the start date of the event
-date = "2023-12-10"
+date = "2023-12-03"
 
 # how many days the event lasts (1 - N)
-days = 1
+days = 2
 
 # the event times (shows up in the event card)
-times = "8:00 - 16:30"
+times = "12/03 9:00 - TBA, 12/04 TBA - 18:30"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[KTPO Convention Centre, Whitefield](https://www.google.com/url?q=https://maps.app.goo.gl/e6piDMM6ZrqULw2R6&sa=D&source=editors&ust=1701783124722018&usg=AOvVaw2g3MpRoFYUcPAtgK2sSWai)"
+venueName = "[Sheraton Grand Bengaluru Whitefield](https://www.google.com/url?q=https://goo.gl/maps/iQyrjYhJSymRyzvR9&sa=D&source=editors&ust=1701783124589079&usg=AOvVaw3P3Kqza-OXhqDHqmgr3ebd)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -30,14 +30,14 @@ venueAddress = "TBA"
 
 # the "difficulty" of the event -- one of:
 # ["Beginner", "Intermediate", "Advanced", "All Welcome"]
-difficulty = "Application"
+difficulty = "Free"
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["Hackathon/Workshop"]
+tags = ["Conference/Summit"]
 
 # a color, to group key events visually. use sparingly
-color="yellow"
+color="blue"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"
@@ -53,4 +53,4 @@ color="yellow"
 priority = 3
 
 # if event has a livestream uncomment the following line
- isLive = false
+isLive = false

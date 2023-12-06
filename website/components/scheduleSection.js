@@ -12,7 +12,11 @@ export default function ScheduleSection({ events, config }) {
 
   useEffect(() => {
     if (scrollContainer.current) {
-      scrollContainer.current.scrollTo(0, 0);
+      // scrollContainer.current.scrollTo(1050, 0);
+      const targetElement = document.getElementById('day-5');
+      if (targetElement) {
+        scrollContainer.current.scrollTo(targetElement.offsetLeft, 0);
+      }
     }
   });
 

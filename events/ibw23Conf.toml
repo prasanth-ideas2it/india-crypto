@@ -1,5 +1,5 @@
 # the name of your track or event
-name = "IBW'23 Conference - Day 2"
+name = "IBW'23 Conference"
 
 # the name of the group organizing the event
 org = "Hashed Emergent"
@@ -13,10 +13,10 @@ org = "Hashed Emergent"
 website = "https://indiablockchainweek.com/"
 
 # the start date of the event
-date = "2023-12-07"
+date = "2023-12-06"
 
 # how many days the event lasts (1 - N)
-days = 1
+days = 2
 
 # the event times (shows up in the event card)
 times = "09:00 - 18:00"

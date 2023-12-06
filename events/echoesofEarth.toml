@@ -1,25 +1,26 @@
 
 # the name of your track or event
-name = "ETHIndia 2023 - Day 1"
+name = "Echoes of Earth
+Swordfish Entertainment"
 
 # the name of the group organizing the event
-org =  "Devfolio, ETHGlobal"
+org =  "Swordfish Entertainment"
 
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://www.google.com/url?q=https://ethindia.co/&sa=D&source=editors&ust=1701783124671934&usg=AOvVaw2p_-QXk5VRyt_bGJzdcLDn"
+website = "https://www.google.com/url?q=https://echoesofearth.com/&sa=D&source=editors&ust=1701783124584492&usg=AOvVaw2I9DbxDNj7MZa0n3n-e7YS"
 
 # the start date of the event
-date = "2023-12-08"
+date = "2023-12-02"
 
 # how many days the event lasts (1 - N)
-days = 1
+days = 2
 
 # the event times (shows up in the event card)
-times = "13:00 - 23:59"
+times = "TBA - TBA"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[KTPO Convention Centre, Whitefield](https://www.google.com/url?q=https://maps.app.goo.gl/e6piDMM6ZrqULw2R6&sa=D&source=editors&ust=1701783124671786&usg=AOvVaw2fhjmuAJ-NuSmrCyqEjnVi)"
+venueName = "[Echoes](https://www.google.com/url?q=https://goo.gl/maps/FimPShPzfMgQLeFu6&sa=D&source=editors&ust=1701783124584263&usg=AOvVaw34VQvKCdHt36JDGtAtlv64)"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -30,14 +31,14 @@ venueAddress = "TBA"
 
 # the "difficulty" of the event -- one of:
 # ["Beginner", "Intermediate", "Advanced", "All Welcome"]
-difficulty = "Application"
+difficulty = "Priced"
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["Hackathon/Workshop"]
+tags = ["Party"]
 
 # a color, to group key events visually. use sparingly
-color="yellow"
+color="green"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"

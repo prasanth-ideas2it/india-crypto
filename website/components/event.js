@@ -19,7 +19,7 @@ export function Card({ children, color, onClick }) {
     <div className={classNames(
       borderColor,
       'eventcard',
-      'p-0.5 shadow-md h-full whitespace-normal hover:bg-gradient-to-r hover:from-blue-500 hover:via-cyan-500 hover:to-green-500'
+      'p-0.5 shadow-md h-full cursor-pointer whitespace-normal hover:bg-gradient-to-r hover:from-blue-500 hover:via-cyan-500 hover:to-green-500'
     )} onClick={onClick}>
       <div className={classNames(
         bgColor,
