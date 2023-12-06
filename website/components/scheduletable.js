@@ -34,21 +34,6 @@ export function ScheduleTable({ events, config }) {
     return aPriority - bPriority
   })
 
-  // useEffect(() => {
-  //   if (days.length > 0) {
-  //     var element = document.getElementById("current-view");
-  //     element.scrollIntoView({ behavior: "smooth" });
-  //   }
-  // }, []);
-
-  useEffect(() => {
-    const element = document.getElementById("current-view");
-    console.log("element>>>>>>>>>>>>>>>>>>>>>>>>>>>>", element)
-    if (element) {
-      element.scrollLeft = 100;
-    }
-  }, [days]); 
-
 
   return (
     <>
@@ -67,7 +52,7 @@ export function ScheduleTable({ events, config }) {
         <div className="grid grid-cols-2  w-[500px]"> <div className="col-span-2  col-start-2  col-end-2"></div></div>
         <div className="grid grid-cols-3  w-[750px]"> <div className="col-span-3  col-start-3  col-end-3"></div></div>
         <div className="grid grid-cols-4  w-[1000px]"><div className="col-span-4  col-start-4  col-end-4"></div></div>
-        <div className="grid grid-cols-5  w-[1250px]"><div className="col-span-5  col-start-5  col-end-5" id="current-view"></div></div>
+        <div className="grid grid-cols-5  w-[1250px]"><div className="col-span-5  col-start-5  col-end-5" id="day-5"></div></div>
         <div className="grid grid-cols-6  w-[1500px]"><div className="col-span-6  col-start-6  col-end-6"></div></div>
         <div className="grid grid-cols-7  w-[1750px]"><div className="col-span-7  col-start-7  col-end-7"></div></div>
         <div className="grid grid-cols-8  w-[2000px]"><div className="col-span-8  col-start-8  col-end-8"></div></div>
