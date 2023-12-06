@@ -12,7 +12,7 @@ export default function ScheduleSection({ events, config }) {
 
   useEffect(() => {
     if (scrollContainer.current) {
-      scrollContainer.current.scrollTo(0, 0);
+      scrollContainer.current.scrollTo(500, 0);
     }
   });
 
