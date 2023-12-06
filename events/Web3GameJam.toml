@@ -19,7 +19,7 @@ days = 1
 times = "18:30 - 21:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "(TBA)"
+venueName = "TBA"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "TBA"
@@ -37,7 +37,7 @@ difficulty = "Free"
 tags = ["Party"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="green"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"

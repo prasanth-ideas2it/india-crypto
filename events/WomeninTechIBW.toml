@@ -37,7 +37,7 @@ difficulty = "Free"
 tags = ["Other"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="purple"
 
 # A small logomark for the corner of the event
 #logomark = "/logomarks/Compute+Over+Data+Working+Group+Logo.png"

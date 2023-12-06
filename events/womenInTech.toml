@@ -1,5 +1,5 @@
 # the name of your track or event
-name = ":female_superhero: Women in Tech IBW :female-technologist:"
+name = "Women in Tech IBW"
 
 # the name of the group organizing the event
 org = "Hashed Open Dialogue for Law (HODL)"
@@ -43,7 +43,7 @@ difficulty = "Free"
 tags = ["Other"]
 
 # a color, to group key events visually. use sparingly
-color="orange"
+color="purple"
 
 # A small logomark for the corner of the event (logomark image can be placed in "/website/public/logomarks")
 # logomark = "/logomarks/Protocol Labs.jpeg"
