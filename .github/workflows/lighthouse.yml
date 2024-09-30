@@ -1,0 +1,57 @@
+name: Lighthouse Report and Email Notification
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  run-lighthouse:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repo
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Install Lighthouse CLI globally
+      - name: Install Lighthouse CLI
+        run: npm install -g lighthouse
+
+      # Run Lighthouse Report
+      - name: Run Lighthouse Report
+        run: lighthouse https://your-website-url.com --output html --output-path ./lighthouse-report.html
+
+      # Upload report as an artifact
+      - name: Upload Lighthouse Report as an artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: lighthouse-report
+          path: ./lighthouse-report.html
+
+      # Send email with link to the report in the artifact
+      # - name: Send Email Notification
+      #   if: github.ref == 'refs/heads/develop'
+      #   uses: dawidd6/action-send-mail@v3
+      #   with:
+      #     server_address: smtp.your-email-provider.com
+      #     server_port: 465
+      #     username: ${{ secrets.EMAIL_USERNAME }}
+      #     password: ${{ secrets.EMAIL_PASSWORD }}
+      #     subject: "Lighthouse Report for develop branch"
+      #     body: |
+      #       The Lighthouse report has been generated for the develop branch.
+      #       You can download it from the GitHub Actions artifacts:
+      #       https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      #     to: recipient@example.com
+      #     from: sender@example.com
